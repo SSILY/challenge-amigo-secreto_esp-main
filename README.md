@@ -29,7 +29,7 @@ https://ssily.github.io/challenge-amigo-secreto_esp-main/challenge-amigo-secreto
 
 ó ingresa directamente desde esta liga
 
-[!caution]([Challenge](https://ssily.github.io/challenge-amigo-secreto_esp-main/challenge-amigo-secreto_esp-main/index.html))
+[Challenge](https://ssily.github.io/challenge-amigo-secreto_esp-main/challenge-amigo-secreto_esp-main/index.html)
 
 ## Despliegue 📦
 
